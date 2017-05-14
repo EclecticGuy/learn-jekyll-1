@@ -30,4 +30,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - mock/*
+google_analytics: UA-________-_
 theme: jekyll-theme-merlot
